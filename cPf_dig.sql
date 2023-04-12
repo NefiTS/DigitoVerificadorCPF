@@ -1,6 +1,6 @@
 SET SERVEROUTPUT ON;
 
--- Declarando as variaveis
+-- Declarando as variaveiss
 DECLARE
     vCpf1 number(10) := 0;
     vCpf2 number(10) := 0;
